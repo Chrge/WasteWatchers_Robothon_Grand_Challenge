@@ -13,11 +13,10 @@
 
 
 
-## software dependency list, 10pts
+## software dependency list
 
 
-## quick start guide. 10pts
-
+## quick start guide
 
 
 
