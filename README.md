@@ -22,7 +22,7 @@
 
 ## quick start guide
 
-Install the [Requirements](wolfgangsrequirements.de)
+Install a python enviroment with the required dependencies [Requirements](../requirements.txt)
 
 
 
