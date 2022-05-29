@@ -5,24 +5,27 @@
 
 ## equipment used list
 
-- IRB1100 and Omnicore C90XT  
-  [ABB Python Control](https://github.com/robotics/open_abb/wiki/Python-Control)
+- IRB1100 and Omnicore C30
+  
+  Communication with python trough an modified version of [openABB Python Control](https://github.com/robotics/open_abb/wiki/Python-Control)
 
 - Intel Realsense Depth Camera D435      
   [PyRealsense](https://github.com/toinsson/pyrealsense)  
-- ROBOTIQ Gripper 2F-85    
+  
+- ROBOTIQ Gripper 2F-85
   [Libraries](https://github.com/frdedynamics/ros_robotiq_urcap_control) **or (https://github.com/rpiRobotics/Robotiq2FingerGripper)--> Check Simon**
   are modified for better compatibility
 
-## software dependency list
+## Software dependencys
 
-[Solvepnp](https://github.com/grzlr/solvepnp) for Point Cloud and Box recognition  
-[OpenCV](https://github.com/opencv/open_vision_capsules)       
-[Open3D](https://github.com/isl-org/Open3D-ML) 
+Python Enviroment with the [Requirements](requirements.txt) installed.
 
 ## quick start guide
 
-Install a python enviroment with the required dependencies [Requirements](requirements.txt)
+Create Virtual Python Enviroment.
+
+Install the required dependencies from [requirements.txt](requirements.txt)
+Run the main Python Script.
 
 
 
