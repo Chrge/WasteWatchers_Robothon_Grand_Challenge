@@ -22,7 +22,7 @@
 
 ## quick start guide
 
-Install a python enviroment with the required dependencies [Requirements](../requirements.txt)
+Install a python enviroment with the required dependencies [Requirements](requirements.txt)
 
 
 
